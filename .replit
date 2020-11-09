@@ -1,2 +1,1 @@
-language = "python3"
-run = "pip install animebot\npython3 main.py"
+run = "pip install --upgrade pip\npip3 install AnimeBot\npython3 main.py"  
